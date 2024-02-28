@@ -1,1 +1,1 @@
-# Imageuploader
+# Django_Imageuploader_project
